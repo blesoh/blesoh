@@ -34,8 +34,8 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 
 ## 💻 Project  
 ### [📌 CareConnect+](https://docs.google.com/presentation/d/1OEC6SWN-BIYfQ21A1t6MXYggjCV5YCyE/edit?usp=sharing)  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/blesoh/blesoh/main/Careconnect+%20logo.jpg" alt="CareConnect Logo" width="220"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/blesoh/blesoh/main/Careconnect+%20logo.jpg" alt="CareConnect Logo" width="100"/>
 </p>  
 
 A mobile app to dismantle barriers in **Africa’s healthcare**:  
