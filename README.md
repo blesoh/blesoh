@@ -40,13 +40,6 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesoh&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-<div align="center">
-
-###  My Contribution Snake
-
-<img src="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-
-</div>
 
 ## 📬 Connect With Me  
 <p align="center">
@@ -55,6 +48,14 @@ I aim to build apps that **create job opportunities for unemployed youth** while
   <a href="mailto:rapandoblessing@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </p>  
 <div align="center">
+
+<div align="center">
+
+### 🐍 My Contribution Snake
+
+<img src="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+
+</div>
 
 
 
