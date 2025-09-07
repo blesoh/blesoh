@@ -15,7 +15,7 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 
 ## 🌱 Currently  
 - 🔭 Learning: **Backend Development @ALX**  
-- 🌍 Focus: **Job creation & healthcare apps**  
+- 🌍 Focus: **Job creation **  
 - ⚡ Fun fact: Code = **Ideas → Impact**  
 
 ---
@@ -30,21 +30,6 @@ I aim to build apps that **create job opportunities for unemployed youth** while
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>  
 
----
-
-## 💻 Projects 
-### [📌 CareConnect +  
-<p align="left">
-  <a href="https://docs.google.com/presentation/d/1OEC6SWN-BIYfQ21A1t6MXYggjCV5YCeE/edit?usp=sharing" target="_blank">
-    <img src="https://raw.githubusercontent.com/blesoh/blesoh/main/Careconnect+%20logo.jpg" alt="CareConnect Logo" width="100"/>
-  </a>
-</p>
-
-A mobile app to dismantle barriers in **Africa’s healthcare**:  
-🩺 Freelance jobs for medics | 📱 Telemedicine | 📊 Research support | 🚚 Medicine delivery  
-
----
-
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blesoh&show_icons=true&theme=tokyonight" height="150"/>
@@ -57,14 +42,11 @@ A mobile app to dismantle barriers in **Africa’s healthcare**:
 <p align="center">
   <a href="https://x.com/blesoh?s=09"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/></a>
   <a href="https://www.linkedin.com/in/bless-rapando-1a0991278/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
-  <a href="https://www.instagram.com/sobleh3?igsh=ZHlmYzVncXViMTUx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30"/></a>
   <a href="mailto:rapandoblessing@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </p>  
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</div>
+
 
 ✨ _“Technology is more than code—it’s a tool to create opportunities and change lives.”_  
