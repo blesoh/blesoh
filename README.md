@@ -63,4 +63,8 @@ A mobile app to dismantle barriers in **Africa’s healthcare**:
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</div>
+
 ✨ _“Technology is more than code—it’s a tool to create opportunities and change lives.”_  
