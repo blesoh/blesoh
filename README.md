@@ -47,14 +47,4 @@ I aim to build apps that **create job opportunities for unemployed youth** while
   <a href="https://www.linkedin.com/in/bless-rapando-1a0991278/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
   <a href="mailto:rapandoblessing@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </p>  
-<div align="center">
-
-<img src="https://blesoh.github.io/blesoh/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-
-</div>
-
-
-
-
-
 ✨ _“Technology is more than code—it’s a tool to create opportunities and change lives.”_  
