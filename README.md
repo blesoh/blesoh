@@ -44,8 +44,16 @@ I aim to build apps that **create job opportunities for unemployed youth** while
   <a href="https://www.linkedin.com/in/bless-rapando-1a0991278/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
   <a href="mailto:rapandoblessing@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
 </p>  
+<div align="center">
 
----
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=blesoh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blesoh&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+</div>
+
 
 
 
