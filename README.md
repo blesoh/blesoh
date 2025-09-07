@@ -49,11 +49,13 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 </p>  
 <div align="center">
 
-<div align="center">
-
 ### 🐍 My Contribution Snake
 
-<img src="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
