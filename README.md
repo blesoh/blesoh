@@ -34,17 +34,7 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=blesoh&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blesoh&layout=compact&theme=tokyonight" height="150"/>
-</p>  
-
----
-
-## 📬 Connect With Me  
-<p align="center">
-  <a href="https://x.com/blesoh?s=09"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/></a>
-  <a href="https://www.linkedin.com/in/bless-rapando-1a0991278/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
-  <a href="mailto:rapandoblessing@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
-</p>  
-<div align="center">
+</p> 
 
 ### 📈 My GitHub Streak & Contribution Snake
 
@@ -55,7 +45,13 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 
 </div>
-
+## 📬 Connect With Me  
+<p align="center">
+  <a href="https://x.com/blesoh?s=09"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/></a>
+  <a href="https://www.linkedin.com/in/bless-rapando-1a0991278/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/></a>
+  <a href="mailto:rapandoblessing@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30"/></a>
+</p>  
+<div align="center">
 
 
 
