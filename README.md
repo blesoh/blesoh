@@ -40,6 +40,13 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesoh&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+<div align="center">
+
+### 🐍 My Contribution Snake
+
+<img src="https://raw.githubusercontent.com/blesoh/blesoh/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+
+</div>
 
 </div>
 ## 📬 Connect With Me  
