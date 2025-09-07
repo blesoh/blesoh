@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch: # Allows manual runs
 
-# 👇 Grant write permission to push changes
+# ✅ Allow workflow to push changes
 permissions:
   contents: write
 
@@ -20,7 +20,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: blesoh
-          outputs: dist/snake.svg dist/snake-dark.svg
+          outputs: output/github-contribution-grid-snake.svg output/github-contribution-grid-snake-dark.svg
 
       - name: Push generated files
         uses: EndBug/add-and-commit@v9
@@ -28,4 +28,6 @@ jobs:
           author_name: github-actions
           author_email: github-actions@github.com
           message: "Generated contribution snake"
-          add: "dist/*"
+          add: "output/*"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
