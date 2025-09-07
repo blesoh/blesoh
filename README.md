@@ -36,13 +36,13 @@ I aim to build apps that **create job opportunities for unemployed youth** while
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blesoh&layout=compact&theme=tokyonight" height="150"/>
 </p> 
 
-### 📈 My GitHub Streak & Contribution Snake
-
 <!-- GitHub Streak -->
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=blesoh&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 
 <!-- Contribution Snake -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
+</p>
 
 </div>
 ## 📬 Connect With Me  
