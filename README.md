@@ -42,13 +42,12 @@ I aim to build apps that **create job opportunities for unemployed youth** while
 </p>
 <div align="center">
 
-### 🐍 My Contribution Snake
+###  My Contribution Snake
 
-<img src="https://raw.githubusercontent.com/blesoh/blesoh/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-
-</div>
+<img src="https://raw.githubusercontent.com/blesoh/blesoh/main/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
 
 </div>
+
 ## 📬 Connect With Me  
 <p align="center">
   <a href="https://x.com/blesoh?s=09"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/></a>
